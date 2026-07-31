@@ -1,4 +1,4 @@
-# Safe Render Guardian (Blender Add-on)
+# Crash Guardian (Blender Add-on)
 
 An open-source Blender add-on that watches system memory while an animation
 renders. If free RAM (and optionally NVIDIA VRAM) drops below a threshold
@@ -10,7 +10,7 @@ unrendered frame and save the file.
 
 1. Download `safe_render_guardian.py`.
 2. In Blender: **Edit ▸ Preferences ▸ Add-ons ▸ Install…**, select the file.
-3. Enable **"Safe Render Guardian"** in the add-ons list.
+3. Enable **"Crash Guardian"** in the add-ons list.
 4. That's it — no separate preferences step. Everything is configured
    directly in the Properties panel per file/scene (see below).
 
